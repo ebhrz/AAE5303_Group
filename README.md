@@ -18,6 +18,16 @@ For each member (up to 3), please include:
 - **Student ID** 📝
 - **Name** ✍️
 - **Brief Introduction** 💬
+- **(individual) Assignment 1:** GitHub repo link
+- **(individual) Assignment 2:** GitHub repo link
+
+### 3. Group Project Links
+Please include GitHub repo links for:
+- **(group) Final project**
+- **VO**
+- **Opensplating**
+- **U-net**
+
 
 That's it! The rest is up to you! 🎉
 
@@ -56,19 +66,31 @@ Here's what the basic structure might look like, but remember - **you can totall
 - **Student ID:** [Your ID]
 - **Name:** [Your Name]
 - **About Me:** [Your introduction - be as creative as you want!]
+- **(individual) Assignment 1:** [GitHub repo link]
+- **(individual) Assignment 2:** [GitHub repo link]
 - **Photo (Optional):** [You can add a photo link or emoji here if you want!]
 
 ### Member 2
 - **Student ID:** [Your ID]
 - **Name:** [Your Name]
 - **About Me:** [Your introduction]
+- **(individual) Assignment 1:** [GitHub repo link]
+- **(individual) Assignment 2:** [GitHub repo link]
 - **Photo (Optional):** [You can add a photo link or emoji here if you want!]
 
 ### Member 3
 - **Student ID:** [Your ID]
 - **Name:** [Your Name]
 - **About Me:** [Your introduction]
+- **(individual) Assignment 1:** [GitHub repo link]
+- **(individual) Assignment 2:** [GitHub repo link]
 - **Photo (Optional):** [You can add a photo link or emoji here if you want!]
+
+## Group Projects
+- **(group) Final project:** [GitHub repo link]
+- **VO:** [GitHub repo link]
+- **Opensplating:** [GitHub repo link]
+- **U-net:** [GitHub repo link]
 ```
 
 But seriously, **don't feel bound by this structure!** You could:
@@ -89,6 +111,8 @@ Before you're done, just double-check:
 - [ ] ✅ Each member has their Student ID
 - [ ] ✅ Each member has their Name
 - [ ] ✅ Each member has some introduction/about section
+- [ ] Each member has Assignment 1/2 GitHub repo links
+- [ ] Group project GitHub repo links are included
 
 Everything else? **Totally optional!** 🎊
 
