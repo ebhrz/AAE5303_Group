@@ -11,7 +11,7 @@
 > **Note to TAs:** Please add your information below by creating a new section for yourself.
 
 ### TA 1
-- **Name:** [Your Name Here] ✍️
+- **Name:** [Chris] ✍️
 - **GitHub Account:** [@your-github-username](https://github.com/your-github-username)
 - **Email:** your.email@example.com 📧
 - **Brief Introduction:** [Tell us about yourself! Your expertise, interests, and what you're excited to help students with] 💬
